@@ -1,7 +1,4 @@
 
-body {
-  font-family: impact !important;
-}
 
 body.home-background {
   background-image: url('../img/chris-background.jpeg');
@@ -48,7 +45,6 @@ body.home-background {
   position: absolute;
   top: 0;
   display: none;
-  font-family: impact;
   color: white;
   text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   text-transform: uppercase;
@@ -60,7 +56,6 @@ body.home-background {
 }
 
 .side-nav {
-  font-family: impact !important;
   font-size: 18px;
   letter-spacing: 2px;
 }
