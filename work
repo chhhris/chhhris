@@ -2,8 +2,10 @@
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Foundation | Welcome</title>
+    <meta http-equiv="content-type" name="viewport" content="width=device-width, initial-scale=1.0, text/html" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>CV</title>
+    <link rel="shortcut icon" type="image/png" href="img/favicon.png" title="copyright by Luboš Volkov from the Noun Project"/>
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="css/chhhris.css" />
     <script src="js/vendor/modernizr.js"></script>
@@ -12,7 +14,7 @@
 
     <div class="row">
       <div class="large-12 columns margin-bottom-small">
-        <h1><a href="file:///Users/chrislake/Sites/chhhris/index.html"><img src="img/chris-logo.png" class="header-style"/></a></h1>
+        <h1><a href="http://chhhris.com/"><img src="img/chris-logo-transparent.png" class="header-style"/></a></h1>
       </div>
     </div>
 
@@ -21,55 +23,56 @@
       <div class="large-10 push-2 columns">
 
         <div class="row top-row margin-bottom-small">
-          <div class="large-4 columns">
+          <div class="large-3 columns">
             <div class="margin-sides-medium"><a href="https://www.vhx.tv/"><img src="img/logos/vhx.png" title="VHX Corporation"/></a></div>
           </div>
 
-          <div class="large-8 columns">
+          <div class="large-9 columns">
             <h3>Software Engineer</h3>
             <p>Chambray narwhal cray heirloom you probably haven't heard of them four loko tilde synth, whatever hella keytar. Cred mustache skateboard four dollar toast. Pop-up chia Godard post-ironic. Helvetica Brooklyn bicycle rights meggings fap Neutra. Gentrify vegan slow-carb bicycle rights 90's, Schlitz fashion axe VHS tofu heirloom deep v four dollar toast sriracha disrupt meditation. Shoreditch hashtag lomo, hoodie meditation health goth fanny pack PBR retro squid craft beer photo booth Brooklyn Bushwick 3 wolf moon.</p>
           </div>
         </div>
 
         <div class="row margin-bottom-small">
-          <div class="large-4 columns">
+          <div class="large-3 columns">
             <div class="margin-sides-medium"><a href="http://flatironschool.com/"><img src="img/logos/flatiron-school.png" title="Flatiron School"/></a></div>
           </div>
 
-          <div class="large-8 columns">
+          <div class="large-9 columns">
             <h3>Student</h3>
-            <p>Chambray narwhal cray heirloom you probably haven't heard of them four loko tilde synth, whatever hella keytar. Cred mustache skateboard four dollar toast. Pop-up chia Godard post-ironic. Helvetica Brooklyn bicycle rights meggings fap Neutra. Gentrify vegan slow-carb bicycle rights 90's, Schlitz fashion axe VHS tofu heirloom deep v four dollar toast sriracha disrupt meditation. Shoreditch hashtag lomo, hoodie meditation health goth fanny pack PBR retro squid craft beer photo booth Brooklyn Bushwick 3 wolf moon.</p>
+            <p>The Flatiron School trains passionate, creative people in web and mobile development.</p>
+            <p>Hacked applications all the way up and down the stack, focusing on: Ruby, Rails, Sinatra, JavaScript, CSS, SASS, HTML5, Object-Oriented Design, Git, SQL and Test-Driven Development.</p>
           </div>
         </div>
 
         <div class="row margin-bottom-small">
-          <div class="large-4 columns">
+          <div class="large-3 columns">
             <div class="margin-sides-medium"><a href="https://www.unigo.com/"><img src="img/logos/unigo.jpeg" title="Unigo" /></a></div>
           </div>
 
-          <div class="large-8 columns">
+          <div class="large-9 columns">
             <h3>Product Manager</h3>
             <p>Chambray narwhal cray heirloom you probably haven't heard of them four loko tilde synth, whatever hella keytar. Cred mustache skateboard four dollar toast. Pop-up chia Godard post-ironic. Helvetica Brooklyn bicycle rights meggings fap Neutra. Gentrify vegan slow-carb bicycle rights 90's, Schlitz fashion axe VHS tofu heirloom deep v four dollar toast sriracha disrupt meditation. Shoreditch hashtag lomo, hoodie meditation health goth fanny pack PBR retro squid craft beer photo booth Brooklyn Bushwick 3 wolf moon.</p>
           </div>
         </div>
 
         <div class="row margin-bottom-small">
-          <div class="large-4 columns">
+          <div class="large-3 columns">
             <div class="margin-sides-medium"><a href="http://www.mckinsey.com/"><img src="img/logos/mckinsey2.png" title="McKinsey & Company"/></a></div>
           </div>
 
-          <div class="large-8 columns">
+          <div class="large-9 columns">
             <h3>Analyst</h3>
             <p>Chambray narwhal cray heirloom you probably haven't heard of them four loko tilde synth, whatever hella keytar. Cred mustache skateboard four dollar toast. Pop-up chia Godard post-ironic. Helvetica Brooklyn bicycle rights meggings fap Neutra. Gentrify vegan slow-carb bicycle rights 90's, Schlitz fashion axe VHS tofu heirloom deep v four dollar toast sriracha disrupt meditation. Shoreditch hashtag lomo, hoodie meditation health goth fanny pack PBR retro squid craft beer photo booth Brooklyn Bushwick 3 wolf moon.</p>
           </div>
         </div>
 
         <div class="row margin-bottom-small">
-          <div class="large-4 columns">
+          <div class="large-3 columns">
             <div class="margin-sides-medium"><a href="http://www.wesleyan.edu/"><img src="img/logos/wesleyan-cardinal.png" title="Wesleyan University"/></a></div>
           </div>
 
-          <div class="large-8 columns">
+          <div class="large-9 columns">
             <h3>Wesleyan University <small>BA, English</small></h3>
             <p>Chambray narwhal cray heirloom you probably haven't heard of them four loko tilde synth, whatever hella keytar. Cred mustache skateboard four dollar toast. Pop-up chia Godard post-ironic. Helvetica Brooklyn bicycle rights meggings fap Neutra. Gentrify vegan slow-carb bicycle rights 90's, Schlitz fashion axe VHS tofu heirloom deep v four dollar toast sriracha disrupt meditation. Shoreditch hashtag lomo, hoodie meditation health goth fanny pack PBR retro squid craft beer photo booth Brooklyn Bushwick 3 wolf moon.</p>
           </div>
@@ -80,8 +83,8 @@
       <div class="large-2 pull-10 columns">
 
         <ul class="side-nav">
-          <li><a href="file:///Users/chrislake/Sites/chhhris/work.html" class="is-selected">CV</a></li>
-          <li><a href="file:///Users/chrislake/Sites/chhhris/about.html">About</a></li>
+          <li><a href="http://chhhris.com/work" class="is-selected">CV</a></li>
+          <li><a href="http://chhhris.com/about">About</a></li>
           <li><a href="#">Contact</a></li>
         </ul>
 
@@ -98,8 +101,8 @@
           </div>
           <div class="large-6 columns">
             <ul class="inline-list right">
-              <li><a href="file:///Users/chrislake/Sites/chhhris/work.html" class="is-selected">CV</a></li>
-              <li><a href="file:///Users/chrislake/Sites/chhhris/about.html">About</a></li>
+              <li><a href="http://chhhris.com/work" class="is-selected">CV</a></li>
+              <li><a href="http://chhhris.com/about">About</a></li>
               <li><a href="#">Contact</a></li>
             </ul>
           </div>
