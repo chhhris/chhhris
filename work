@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="content-type" name="viewport" content="width=device-width, initial-scale=1.0, text/html" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>CV</title>
+    <title>Work</title>
     <link rel="shortcut icon" type="image/png" href="img/favicon.png" title="copyright by Luboš Volkov from the Noun Project"/>
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="css/chhhris.css" />
@@ -20,7 +20,7 @@
 
     <div class="row">
 
-      <div class="large-10 push-2 columns">
+      <div class="large-11 push-1 columns">
 
         <div class="row top-row margin-bottom-small">
           <div class="large-3 columns">
@@ -29,7 +29,14 @@
 
           <div class="large-9 columns">
             <h3>Software Engineer</h3>
-            <p>Chambray narwhal cray heirloom you probably haven't heard of them four loko tilde synth, whatever hella keytar. Cred mustache skateboard four dollar toast. Pop-up chia Godard post-ironic. Helvetica Brooklyn bicycle rights meggings fap Neutra. Gentrify vegan slow-carb bicycle rights 90's, Schlitz fashion axe VHS tofu heirloom deep v four dollar toast sriracha disrupt meditation. Shoreditch hashtag lomo, hoodie meditation health goth fanny pack PBR retro squid craft beer photo booth Brooklyn Bushwick 3 wolf moon.</p>
+            <p>VHX is an open video distribution platform for anyone.  We've helped creators sell films, TV shows, comedy specials, live concert footage, lectures, web series, fitness, education, and more. Backed by Union Square Ventures, Lowercase Capital and Comcast Ventures.</p>
+            <ul>
+              <li>Develop on all aspects of our applications (development, testing, deployment, architecture).</li>
+              <li>Create preliminary specs for new features.</li>
+              <li>Write well-tested, maintainable code.</li>
+              <li>Optimize and scale existing features.</li>
+              <li>Technical support of applications (fixing bugs and supporting clients' needs).</li>
+            </ul>
           </div>
         </div>
 
@@ -52,7 +59,14 @@
 
           <div class="large-9 columns">
             <h3>Product Manager</h3>
-            <p>Chambray narwhal cray heirloom you probably haven't heard of them four loko tilde synth, whatever hella keytar. Cred mustache skateboard four dollar toast. Pop-up chia Godard post-ironic. Helvetica Brooklyn bicycle rights meggings fap Neutra. Gentrify vegan slow-carb bicycle rights 90's, Schlitz fashion axe VHS tofu heirloom deep v four dollar toast sriracha disrupt meditation. Shoreditch hashtag lomo, hoodie meditation health goth fanny pack PBR retro squid craft beer photo booth Brooklyn Bushwick 3 wolf moon.</p>
+            <p>Backed by McGraw-Hill, Unigo.com is one of the web's largest college admissions websites, with over 250,000 free school reviews, photos and videos by current college students and over 1,500 admissions experts providing admissions and financial aid advice.</p>
+            <p>Walt Mossberg in the Wall Street Journal called Unigo “a college resource built for the age of YouTube and Facebook” and The New York Times said our reviews were “vivid in a way no guidebook can match."</p>
+            <p>I led our team to several major product launches:</p>
+            <ul>
+              <li>Complete redesign and rebranding of Unigo.com. I led this six-month project from beginning to end. Pageviews were up 60% year over year. Registrations increased 300%.</li>
+              <li>Led development of an online, multimedia admissions course that increased revenue by 400% in 2012 over 2011.</li>
+              <li>SaaS platform (currently in beta with a top online university) that leverages our chat, scheduling, and analytics technology for use by schools to improve enrollment yield management and increase retention.</li>
+            </ul>
           </div>
         </div>
 
@@ -62,8 +76,28 @@
           </div>
 
           <div class="large-9 columns">
-            <h3>Analyst</h3>
-            <p>Chambray narwhal cray heirloom you probably haven't heard of them four loko tilde synth, whatever hella keytar. Cred mustache skateboard four dollar toast. Pop-up chia Godard post-ironic. Helvetica Brooklyn bicycle rights meggings fap Neutra. Gentrify vegan slow-carb bicycle rights 90's, Schlitz fashion axe VHS tofu heirloom deep v four dollar toast sriracha disrupt meditation. Shoreditch hashtag lomo, hoodie meditation health goth fanny pack PBR retro squid craft beer photo booth Brooklyn Bushwick 3 wolf moon.</p>
+            <h3>Client Service Analyst</h3>
+            <p>The McKinsey Investment Office manages over $6 billion on behalf of McKinsey & Co., the preeminent management consulting firm.</p>
+            <ul>
+              <li>Led client-side operations for the restructuring of our $105-million variable annuity and variable universal life insurance-wrapped investment vehicles.</li>
+              <li class="results">Resulted in $472,000 annual cost savings and an improved credit rating (from B to AA according to Standard & Poor's).</li>
+              <li>Launched an IRA-wrapped version of our flagship fund.</li>
+              <li class="results">Worked with investors to raise $5 million in seed capital required for launch.</li>
+              <li>Increased robustness and efficiency of systems and processes used to track, analyze and report over $1 billion in transactions across 1,400 investors.</li>
+              <li class="results">Reduced errors by 75% and reduced time spent by 15%.</li>
+              <li>Built an Excel-based Roth IRA conversion calculator to help investors compare the returns of a maintaining a Traditional IRA vs converting to a Roth IRA.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row margin-bottom-small">
+          <div class="large-3 columns">
+            <div class="margin-sides-medium"><a href="http://rasiej.com/bio/"><img src="img/logos/rasiej.png" title="Andrew Rasiej for NYC Public Advocate"/></a></div>
+          </div>
+
+          <div class="large-9 columns">
+            <h3>Campaign Associate <small>Street Team</small></h3>
+            <p>Chairman of the NY Tech Meetup (NYTM), Andrew Rasiej ran for Public Advocate of New York City (3rd in succession from Mayorship) on a platform of building a citywide, publicly accessible WiFi network.</p>
           </div>
         </div>
 
@@ -80,13 +114,13 @@
 
       </div>
 
-      <div class="large-2 pull-10 columns">
+      <div class="large-1 pull-11 columns">
 
-        <ul class="side-nav">
-          <li><a href="http://chhhris.com/work" class="is-selected">CV</a></li>
+      <!--   <ul class="side-nav">
+          <li><a href="http://chhhris.com/work" class="is-selected">Work</a></li>
           <li><a href="http://chhhris.com/about">About</a></li>
           <li><a href="#">Contact</a></li>
-        </ul>
+        </ul> -->
 
       </div>
 
@@ -101,9 +135,9 @@
           </div>
           <div class="large-6 columns">
             <ul class="inline-list right">
-              <li><a href="http://chhhris.com/work" class="is-selected">CV</a></li>
+              <!-- <li><a href="http://chhhris.com/work" class="is-selected">Work</a></li>
               <li><a href="http://chhhris.com/about">About</a></li>
-              <li><a href="#">Contact</a></li>
+              <li><a href="#">Contact</a></li> -->
             </ul>
           </div>
         </div>

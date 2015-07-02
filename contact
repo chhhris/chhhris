@@ -4,24 +4,15 @@
     <meta charset="utf-8" />
     <meta http-equiv="content-type" name="viewport" content="width=device-width, initial-scale=1.0, text/html" />
     <title>Chhhris</title>
-
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon" title="copyright by Stefan Parnarov from the Noun Project">
-
+    <link rel="shortcut icon" type="image/png" href="img/favicon.png" title="copyright by Luboš Volkov from the Noun Project"/>
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="css/chhhris.css" />
     <script src="js/vendor/modernizr.js"></script>
-              <!-- oooo        oooo        oooo                  o8o
-              `888        `888        `888                  `"'
-     .ooooo.   888 .oo.    888 .oo.    888 .oo.   oooo d8b oooo   .oooo.o
-    d88' `"Y8  888P"Y88b   888P"Y88b   888P"Y88b  `888""8P `888  d88(  "8
-    888        888   888   888   888   888   888   888      888  `"Y88b.
-    888   .o8  888   888   888   888   888   888   888      888  o.  )88b
-    `Y8bod8P' o888o o888o o888o o888o o888o o888o d888b    o888o 8""888P' -->
   </head>
   <body class="home-background">
 
     <div class="row">
-      <div class="large-12 columns">
+      <div class="large-12 columns margin-bottom-small">
         <h1><a href="http://chhhris.com/"><img src="img/chris-logo-transparent.png" class="header-style"/></a></h1>
       </div>
     </div>
@@ -29,16 +20,15 @@
     <div class="row">
 
       <div class="large-10 push-2 columns extra-tall">
-        <img src="img/chris-turnstyle.gif" class="gif-tallboy js-head-turn">
-        <!-- <h3 class="heyo">Hey, what's up!</h3> -->
+        <span></span>
       </div>
 
       <div class="large-2 pull-10 columns">
 
         <ul class="side-nav">
-          <li><a href="http://chhhris.com/work" class="menu-items">Work&nbsp;></a></li>
-          <!-- <li><a href="http://chhhris.com/about">About</a></li>
-          <li><a href="#">Contact</a></li> -->
+          <li><a href="http://chhhris.com/work">Work</a></li>
+          <li><a href="http://chhhris.com/about">About</a></li>
+          <li><a href="http://chhhris.com/contact" class="is-selected">Contact</a></li>
         </ul>
       </div>
 
@@ -53,9 +43,9 @@
           </div>
           <div class="large-6 columns">
             <ul class="inline-list right">
-              <li><a href="http://chhhris.com/work" class="menu-items">Work&nbsp;></a></li>
-              <!-- <li><a href="http://chhhris.com/about">About</a></li>
-              <li><a href="#">Contact</a></li> -->
+              <li><a href="http://chhhris.com/work">Work</a></li>
+              <li><a href="http://chhhris.com/about">About</a></li>
+              <li><a href="http://chhhris.com/contact" class="is-selected">Contact</a></li>
             </ul>
           </div>
         </div>
