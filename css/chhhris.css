@@ -1,9 +1,14 @@
 
 
 body.home-background {
-  background-image: url('../img/chris-background.jpeg');
+  background-image: url('../img/otto-desk.jpg');
+  /*background-image: url('../img/chris-background.jpeg');*/
   background-size: cover;
-  /*background-image: url(img/chris-background.jpeg);*/
+}
+
+.menu-items {
+  font-size: 35px;
+  color: white !important;
 }
 
 .header-style {
@@ -16,7 +21,7 @@ body.home-background {
 }
 
 .extra-tall {
-  height: 760px;
+  height: 788px;
 }
 
 .top-row {
