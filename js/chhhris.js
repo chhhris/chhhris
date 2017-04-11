@@ -5,15 +5,15 @@
  * http://www.opensource.org/licenses/mit-license.php
 */
 
-function chrisCheesySmile (){
-  $('.js-head-turn').fadeOut( "slow", "linear" );
-  setTimeout(sayHey, 100);
-}
+// function chrisCheesySmile (){
+//   $('.js-head-turn').fadeOut( "slow", "linear" );
+//   setTimeout(sayHey, 100);
+// }
 
-function sayHey (){
-  $('.heyo').fadeIn( "slow", "linear" )
-}
+// function sayHey (){
+//   $('.heyo').fadeIn( "slow", "linear" )
+// }
 
-$( document ).ready(function() {
-    setTimeout(chrisCheesySmile, 3000);
-});
+// $( document ).ready(function() {
+//     setTimeout(chrisCheesySmile, 3000);
+// });

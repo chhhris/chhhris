@@ -1,18 +1,5 @@
 
-
-body.home-background {
-  background-image: url('../img/otto-desk.jpg');
-  /*background-image: url('../img/chris-background.jpeg');*/
-  background-size: cover;
-}
-
-.menu-items {
-  font-size: 35px;
-  color: white !important;
-}
-
 .header-style {
-  /*border-bottom: 1px dotted;*/
   padding-bottom: 10px;
 }
 
@@ -41,26 +28,18 @@ body.home-background {
   margin-right: 10px !important;
 }
 
-.gif-tallboy {
-  height: 370px;
-  position: relative;
-}
-
-.heyo {
-  position: absolute;
-  top: 0;
-  display: none;
-  color: white;
-  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
-  text-transform: uppercase;
-  font-size: 62px;
-  background-color: #71EEB8;
-  padding: 10px;
-  padding-left: 25px;
-  padding-right: 25px;
-}
-
 .side-nav {
   font-size: 18px;
   letter-spacing: 2px;
+}
+
+span.location {
+  font-size: 16px;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }

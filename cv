@@ -2,13 +2,18 @@
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta http-equiv="content-type" name="viewport" content="width=device-width, initial-scale=1.0, text/html" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Work</title>
-    <link rel="shortcut icon" type="image/png" href="img/favicon.png" title="copyright by Luboš Volkov from the Noun Project"/>
-    <link rel="stylesheet" href="css/foundation.css" />
+    <title>CV</title>
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/img/manifest.json">
+    <link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="css/foundation.min.css" />
     <link rel="stylesheet" href="css/chhhris.css" />
-    <script src="js/vendor/modernizr.js"></script>
   </head>
   <body>
 
@@ -24,11 +29,28 @@
 
         <div class="row top-row margin-bottom-small">
           <div class="large-3 columns">
+            <div class="margin-sides-medium"><a href="http://www.ellucian.com/"><img src="img/logos/ellucian.jpg" title="Ellucian"/></a></div>
+          </div>
+
+          <div class="large-9 columns">
+            <h3>Software Engineer <small>San Francisco, CA</small></h3>
+            <p>Ellucian is the world’s leading provider of software to more than 2,400 colleges and universities in 40 countries. Acquired by TPG in 2015 for $4 billion.</p>
+            <ul>
+              <li>Our technology stack includes Ruby on Rails, AngularJS, PostgreSQL, Redis, Docker and Amazon Web Services (AWS).</li>
+              <li>Multi-tenant, microservice architecture.</li>
+              <li>Developing and managing across all components of DevOps pipeline: AWS, Terraform (AWS configurations / infrastructure as code), Jenkins builds (testing and deploy orchestration).</li>
+              <li>Maintain full automation and manual test coverage (Rspec, Capybara, SitePrism) for all feature development.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row top-row margin-bottom-small">
+          <div class="large-3 columns">
             <div class="margin-sides-medium"><a href="https://www.vhx.tv/"><img src="img/logos/vhx.png" title="VHX Corporation"/></a></div>
           </div>
 
           <div class="large-9 columns">
-            <h3>Software Engineer</h3>
+            <h3>Software Engineer <small>Brooklyn, NY</small></h3>
             <p>VHX is an open video distribution platform for anyone.  We've helped creators sell films, TV shows, comedy specials, live concert footage, lectures, web series, fitness, education, and more. Backed by Union Square Ventures, Lowercase Capital and Comcast Ventures.</p>
             <ul>
               <li>Develop on all aspects of our applications (development, testing, deployment, architecture).</li>
@@ -42,24 +64,12 @@
 
         <div class="row margin-bottom-small">
           <div class="large-3 columns">
-            <div class="margin-sides-medium"><a href="http://flatironschool.com/"><img src="img/logos/flatiron-school.png" title="Flatiron School"/></a></div>
-          </div>
-
-          <div class="large-9 columns">
-            <h3>Student</h3>
-            <p>The Flatiron School trains passionate, creative people in web and mobile development.</p>
-            <p>Hacked applications all the way up and down the stack, focusing on: Ruby, Rails, Sinatra, JavaScript, CSS, SASS, HTML5, Object-Oriented Design, Git, SQL and Test-Driven Development.</p>
-          </div>
-        </div>
-
-        <div class="row margin-bottom-small">
-          <div class="large-3 columns">
             <div class="margin-sides-medium"><a href="https://www.unigo.com/"><img src="img/logos/unigo.jpeg" title="Unigo" /></a></div>
           </div>
 
           <div class="large-9 columns">
-            <h3>Product Manager</h3>
-            <p>Backed by McGraw-Hill, Unigo.com is one of the web's largest college admissions websites, with over 250,000 free school reviews, photos and videos by current college students and over 1,500 admissions experts providing admissions and financial aid advice.</p>
+            <h3>Product Manager <small>New York, NY</small></h3>
+            <p>Backed by McGraw-Hill, Unigo.com is one of the web's smallst college admissions websites, with over 250,000 free school reviews, photos and videos by current college students and over 1,500 admissions experts providing admissions and financial aid advice.</p>
             <p>Walt Mossberg in the Wall Street Journal called Unigo “a college resource built for the age of YouTube and Facebook” and The New York Times said our reviews were “vivid in a way no guidebook can match."</p>
             <p>I led our team to several major product launches:</p>
             <ul>
@@ -76,7 +86,7 @@
           </div>
 
           <div class="large-9 columns">
-            <h3>Client Service Analyst</h3>
+            <h3>Client Service Analyst <small>New York, NY</small></h3>
             <p>The McKinsey Investment Office manages over $6 billion on behalf of McKinsey & Co., the preeminent management consulting firm.</p>
             <ul>
               <li>Led client-side operations for the restructuring of our $105-million variable annuity and variable universal life insurance-wrapped investment vehicles.</li>
@@ -96,8 +106,19 @@
           </div>
 
           <div class="large-9 columns">
-            <h3>Campaign Associate <small>Street Team</small></h3>
+            <h3>Campaign Associate <small>New York, NY</small></h3>
             <p>Chairman of the NY Tech Meetup (NYTM), Andrew Rasiej ran for Public Advocate of New York City (3rd in succession from Mayorship) on a platform of building a citywide, publicly accessible WiFi network.</p>
+          </div>
+        </div>
+        <hr />
+        <div class="row margin-bottom-small">
+          <div class="large-3 columns">
+            <div class="margin-sides-medium"><a href="http://flatironschool.com/"><img src="img/logos/flatiron-school.png" title="Flatiron School"/></a></div>
+          </div>
+
+          <div class="large-9 columns">
+            <h3>The Flatiron School <small>New York, NY</small></h3>
+            <p>Hacked applications all the way up and down the stack, focusing on: Ruby, Rails, Sinatra, JavaScript, CSS, SASS, HTML5, Object-Oriented Design, Git, SQL and Test-Driven Development.</p>
           </div>
         </div>
 
@@ -107,48 +128,13 @@
           </div>
 
           <div class="large-9 columns">
-            <h3>Wesleyan University <small>BA, English</small></h3>
+            <h3>Wesleyan University <small>Middletown, CT</small></h3>
             <p>Chambray narwhal cray heirloom you probably haven't heard of them four loko tilde synth, whatever hella keytar. Cred mustache skateboard four dollar toast. Pop-up chia Godard post-ironic. Helvetica Brooklyn bicycle rights meggings fap Neutra. Gentrify vegan slow-carb bicycle rights 90's, Schlitz fashion axe VHS tofu heirloom deep v four dollar toast sriracha disrupt meditation. Shoreditch hashtag lomo, hoodie meditation health goth fanny pack PBR retro squid craft beer photo booth Brooklyn Bushwick 3 wolf moon.</p>
           </div>
         </div>
 
       </div>
-
-      <div class="large-1 pull-11 columns">
-
-      <!--   <ul class="side-nav">
-          <li><a href="http://chhhris.com/work" class="is-selected">Work</a></li>
-          <li><a href="http://chhhris.com/about">About</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul> -->
-
-      </div>
-
     </div>
 
-    <footer class="row">
-      <div class="large-12 columns">
-        <hr/>
-        <div class="row">
-          <div class="large-6 columns">
-            <p>© Copyright Chhhris Lake</p>
-          </div>
-          <div class="large-6 columns">
-            <ul class="inline-list right">
-              <!-- <li><a href="http://chhhris.com/work" class="is-selected">Work</a></li>
-              <li><a href="http://chhhris.com/about">About</a></li>
-              <li><a href="#">Contact</a></li> -->
-            </ul>
-          </div>
-        </div>
-      </div>
-    </footer>
-
-
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-    </script>
   </body>
 </html>
